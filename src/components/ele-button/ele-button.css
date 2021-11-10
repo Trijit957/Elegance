@@ -1,0 +1,17 @@
+:host {
+  display: block;
+}
+
+.primary {
+  background: red;
+  color: white;
+  height: 50px;
+  width: 100px;
+}
+
+.secondary {
+  background: green;
+  color: white;
+  height: 50px;
+  width: 100px;
+}
